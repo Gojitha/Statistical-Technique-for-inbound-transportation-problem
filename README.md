@@ -1,6 +1,7 @@
 # Statistical-Technique-for-inbound-transportation-problem
 
 A small factory has two transportation routes: 
+
 Route-1: Through northern regional hub.
 Route-2: Through from southern regional hub.
 
